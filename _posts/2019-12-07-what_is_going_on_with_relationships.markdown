@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What is going on with relationships "
-date:       2019-12-07 21:39:57 +0000
+date:       2019-12-07 16:39:58 -0500
 permalink:  what_is_going_on_with_relationships
 ---
 
