@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What goes into a button in your React app"
-date:       2020-03-03 15:51:40 +0000
+date:       2020-03-03 10:51:41 -0500
 permalink:  what_goes_into_a_button_in_your_react_app
 ---
 
